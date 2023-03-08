@@ -7,3 +7,6 @@
 [submodule "printf"]
 	path = printf
 	url = https://github.com/DaniMSalinas/42-ft_printft.git
+[submodule "gnl"]
+	path = gnl
+	url = https://github.com/DaniMSalinas/42-gnl.git
