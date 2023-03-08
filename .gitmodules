@@ -4,9 +4,6 @@
 [submodule "born2beroot"]
 	path = born2beroot
 	url = https://github.com/DaniMSalinas/42-born2beroot.git
-[submodule "42-ft_printft"]
-	path = 42-ft_printft
-	url = https://github.com/DaniMSalinas/42-ft_printft.git
 [submodule "printf"]
 	path = printf
 	url = https://github.com/DaniMSalinas/42-ft_printft.git
