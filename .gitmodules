@@ -10,3 +10,6 @@
 [submodule "gnl"]
 	path = gnl
 	url = https://github.com/DaniMSalinas/42-gnl.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/DaniMSalinas/42-minitalk.git
